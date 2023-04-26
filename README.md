@@ -1,1 +1,3 @@
-# sc2001-21f1002150
+export GITHUB_USERNAME="salunkemanas"
+
+export GITHUB_REPOSITORY="se2001-21f1002150"
